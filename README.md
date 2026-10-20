@@ -1,5 +1,7 @@
 # Arun N — Thoughtfully engineered
 
+Live website: https://arunn2005.github.io/portfolio-experiment/
+
 An original, responsive portfolio built around Arun's actual resume. React, TypeScript, Vite, custom CSS, locally served fonts, and a lightweight interactive canvas sculpture.
 
 ## Run
@@ -70,4 +72,4 @@ The About section uses a custom monogram. The inline portrait in the conversatio
 
 ## Delivery boundaries
 
-The contact form opens the visitor's email application; it is not a message delivery API. Project illustrations and playground results use explanatory sample data. Real cloud migration, civic reports, blockchain writes, and analytics are not performed. Only verified project URLs are linked. No deployment or publication has been performed automatically.
+The contact form opens the visitor's email application; it is not a message delivery API. Project illustrations and playground results use explanatory sample data. Real cloud migration, civic reports, blockchain writes, and analytics are not performed. Only verified project URLs are linked. The site is deployed to GitHub Pages from the `gh-pages` branch. Source is on `main`. See [deployment instructions](docs/DEPLOYMENT.md) when publishing updates.

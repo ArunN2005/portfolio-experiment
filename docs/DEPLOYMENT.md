@@ -1,6 +1,8 @@
 # GitHub Pages deployment
 
-The public destination is `https://arunn2005.github.io/portfolio-experiment/` once Pages is enabled and its deployment completes. The presence of the branch does not establish that the website is live.
+Live website: https://arunn2005.github.io/portfolio-experiment/
+
+GitHub Pages reports the site as built, and the public homepage returns HTTP 200. Hosting uses the `gh-pages` branch; application source is on `main`.
 
 ## Build
 

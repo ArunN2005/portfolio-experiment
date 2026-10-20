@@ -39,4 +39,4 @@ The site uses semantic landmarks, native dialog focus containment, descriptive b
 
 ## Known boundaries
 
-This is a complete static portfolio frontend. Its project visuals and experiments are explanatory, not live integrations with AWS, Google Maps, Roboflow, or smart contracts. Contact uses the visitor's email application. Hosting, a custom domain, and email delivery infrastructure are not configured or silently published.
+This is a complete static portfolio frontend. Its project visuals and experiments are explanatory, not live integrations with AWS, Google Maps, Roboflow, or smart contracts. Contact uses the visitor's email application. Following the explicit hosting request, the site was deployed to GitHub Pages. A custom domain and email delivery infrastructure are not configured.
